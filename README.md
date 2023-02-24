@@ -1,8 +1,7 @@
 # Lenkeliste
 I denne oblig lærte jeg om konseptet lister ved å implementere en egen lenket liste. 
 Datastrukturen består av noder som inneholder data og én eller flere referanser til neste eller forrige node.
-
-Konsepter som ble brukt: Interface(Liste.java) og arv.
+Konsepter: Interface(Liste.java) og arv.
 
 Metoder i Lenkeliste.java (FIFO-liste):
 1. stoerrelse(): Sjekker antall elementer i lista.
