@@ -1,5 +1,5 @@
 # Lenkeliste
-I denne oblig lærte jeg om konseptet lister ved å implementere en egen lenket liste. 
+I denne obligatoriske oppgaven lærte jeg om konseptet lister ved å implementere en egen lenket liste. 
 Datastrukturen består av noder som inneholder data og én eller flere referanser til neste eller forrige node.
 
 Konsepter: Interface(Liste.java) og arv.
